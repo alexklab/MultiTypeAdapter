@@ -1,7 +1,7 @@
 package com.alexklab.sample.multitypeadapter.ex
 
 import android.support.annotation.ColorRes
-import com.alexklab.sample.multitypeadapter.lib.MultiTypeMarker
+import com.alexklab.multitypeadapter.MultiTypeMarker
 
 /**
  * Created by alexk on 2/19/18.

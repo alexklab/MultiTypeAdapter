@@ -1,9 +1,9 @@
 package com.alexklab.sample.multitypeadapter.ex
 
 import android.content.Context
+import com.alexklab.multitypeadapter.MultiTypeAdapter
+import com.alexklab.multitypeadapter.MultiTypeMarker
 import com.alexklab.sample.multitypeadapter.R
-import com.alexklab.sample.multitypeadapter.lib.MultiTypeAdapter
-import com.alexklab.sample.multitypeadapter.lib.MultiTypeMarker
 
 /**
  * Created by alexk on 2/19/18.

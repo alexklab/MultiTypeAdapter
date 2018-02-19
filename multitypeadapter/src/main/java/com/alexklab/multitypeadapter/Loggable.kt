@@ -1,4 +1,4 @@
-package com.alexklab.sample.multitypeadapter.lib
+package com.alexklab.multitypeadapter
 
 import android.util.Log
 

@@ -1,8 +1,8 @@
 package com.alexklab.sample.multitypeadapter.ex
 
 import android.view.View
-import com.alexklab.sample.multitypeadapter.lib.MultiTypeAdapter
-import com.alexklab.sample.multitypeadapter.lib.MultiTypeMarker
+import com.alexklab.multitypeadapter.MultiTypeAdapter
+import com.alexklab.multitypeadapter.MultiTypeMarker
 import kotlinx.android.synthetic.main.text_item_layout.view.*
 
 /**

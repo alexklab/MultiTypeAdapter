@@ -1,7 +1,7 @@
-package com.alexklab.sample.multitypeadapter.lib
+package com.alexklab.multitypeadapter
 
 import android.view.View
-import com.alexklab.sample.multitypeadapter.R
+import com.alexklab.multitypeadapter.R
 import kotlinx.android.synthetic.main.simple_text_item.view.*
 
 /**

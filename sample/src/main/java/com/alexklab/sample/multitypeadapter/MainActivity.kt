@@ -4,12 +4,12 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
 import android.util.Log
+import com.alexklab.multitypeadapter.Loggable
+import com.alexklab.multitypeadapter.MultiTypeAdapter
+import com.alexklab.multitypeadapter.MultiTypeMarker
 import com.alexklab.sample.multitypeadapter.ex.IconItem
 import com.alexklab.sample.multitypeadapter.ex.SampleAdapter
 import com.alexklab.sample.multitypeadapter.ex.TextItem
-import com.alexklab.sample.multitypeadapter.lib.Loggable
-import com.alexklab.sample.multitypeadapter.lib.MultiTypeAdapter
-import com.alexklab.sample.multitypeadapter.lib.MultiTypeMarker
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity(), MultiTypeAdapter.OnItemClickListener, Loggable {

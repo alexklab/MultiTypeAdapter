@@ -1,4 +1,4 @@
-package com.alexklab.sample.multitypeadapter.lib
+package com.alexklab.multitypeadapter
 
 import android.content.Context
 import android.support.annotation.LayoutRes
@@ -6,7 +6,6 @@ import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.alexklab.sample.multitypeadapter.R
 
 /**
  * Created by alexk on 2/18/18.

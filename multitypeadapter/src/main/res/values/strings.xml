@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiTypeAdapter</string>
+    <string name="undefined_item_title">Undefined view holder for item: %s</string>
+</resources>
