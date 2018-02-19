@@ -6,16 +6,16 @@ Gradle
 Add it in your root build.gradle at the end of repositories:
 ```
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
 ```
 
 Add the dependency
 ```
 dependencies {
-	        compile 'com.github.alexklab:MultiTypeAdapter:1.0.2'
-	}
+      compile 'com.github.alexklab:MultiTypeAdapter:1.0.2'
+}
 ```
