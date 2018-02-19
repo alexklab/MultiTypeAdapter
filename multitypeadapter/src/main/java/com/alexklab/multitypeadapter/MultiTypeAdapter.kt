@@ -12,7 +12,7 @@ import android.view.ViewGroup
  * Project MultiTypeAdapter
  */
 abstract class MultiTypeAdapter(private val context: Context,
-                                private var items: List<MultiTypeMarker>,
+                                protected var items: List<MultiTypeMarker>,
                                 private var onItemClickedListener: OnItemClickListener? = null) : RecyclerView.Adapter<MultiTypeAdapter.ViewHolder>(), Loggable {
 
     interface OnItemClickListener {
